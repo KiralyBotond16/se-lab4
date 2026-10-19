@@ -1,0 +1,4 @@
+# Create a ship where only the primary store has a single torpedo
+GT4500,1,0,0,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE  # should fail, primary was fired last but is now empty
